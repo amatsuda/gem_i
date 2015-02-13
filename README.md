@@ -11,7 +11,7 @@ And instaed, you'll find your self seeing a weird error message like this, proba
 
 So, gem\_i is here for you.
 
-gem\_i is a RubyGems plugin that forces your gem command to always invoke the `install` command by just `gem i` even if any other i\* command such as `inabox` was installed.
+gem\_i is a RubyGems plugin that forces your `gem` command to always invoke the `install` command by just `gem i` even if any other i\* command such as `inabox` was installed.
 
 ## Installation
 
