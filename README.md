@@ -3,7 +3,7 @@
 RubyGems is so clever that if you run `gem i`, it searches a command starts with "i" then automatically falls back to the "install" command.
 
 But once you've installed any gem command starting with "i", this would stop working.
-And instead, you'll find your self seeing a weird error message like this, probably more than 10 times every day.
+And instead, you'll find yourself seeing a weird error message like this, probably more than 10 times every day.
 
     % gem i active_decorator
     ERROR:  While executing gem ... (Gem::CommandLineError)
